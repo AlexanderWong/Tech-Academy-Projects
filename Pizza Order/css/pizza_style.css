@@ -1,0 +1,144 @@
+.container {
+	opacity: 1;
+}
+
+body {
+	background-color: green;
+}
+
+#menuBackground >h1 {
+	font-family: 'Helvetica', sans-serif;
+	font-size: 65px;
+	color: yellow;
+	text-shadow: 3.5px 3.5px 5px black;
+	margin: auto;
+	text-align: center;
+}
+
+#menuBackground>h3 {
+	text-align: center;
+	font-family: 'Helvetica', sans-serif;
+	font-size: 25px;
+}
+
+
+#formMenu {
+	margin: 0% auto;
+	width: 550px;
+    display: flex;
+    flex-wrap: wrap;
+    flex-direction: row;
+    justify-content: flex-start;
+    align-items: stretch;
+	border-radius: 25px;
+}
+
+.menu { 
+	opacity: .97;
+	background-color: yellow;
+	flex: 1 150px;
+	min-width: 0;
+	margin: 2px;
+	border: 2.5px solid black;
+	border-radius: 10%;
+	padding-top: 3px;
+	padding-bottom: 10px;
+	padding-left: 10px;
+}
+
+.button {
+	opacity: .97;
+	cursor: pointer;
+	color: black;
+	width: 33%;
+	display: block;
+	text-decoration: underline;
+	border: black;
+	border-radius: .5em;
+	margin: 1% auto;
+	padding: .1px 0 .1px 0px;
+    font: 18px sans-serif;
+	background-color: yellow; 
+	box-shadow: 0 0 0 2px black;
+	transition-property: transform background, box-shadow, color;
+	transition-duration: .3s, .5s, .2s;
+	transition-timing-function: eas-in-out;
+}
+
+.button>p {
+	text-align: center;
+	font-weight: bold;
+}
+
+.button:hover {
+	font: 18px sans-serif;
+	font-weight: bold;
+	color: #fff;
+	background-color: gray;
+	box-shadow: 0 0 0 2px white;
+}
+ 
+ #cart {
+	text-align: center;
+ 	margin: 15px auto;
+	width: 550px;
+    display: flex;
+    flex-wrap: wrap;
+    flex-direction: row;
+    justify-content: flex-start;
+    align-items: stretch;
+	background-color: yellow;
+	border: 2px solid black;
+	border-radius: 25px;
+}
+
+#title1 {
+	color: black;
+	flex: 1 250px;
+	height: 50px;
+	width: 250px;
+	padding: 0 0 0px 10px;
+	background-color: gray;
+	border-radius: 25px 0 0 0;
+}
+
+#title2 {
+	color: black;
+	flex: 1 250px;
+	height: 50px;
+	width: 250px;
+	padding: 0 0 0px 10px;
+	background-color: gray;
+	border-radius: 0 25px 0 0;
+}
+
+#showText1 {
+	font-size: 13px;
+	flex: 1 250px;
+	padding: 1px 0 10px 10px;
+	width: 250px;
+	border-radius: 0 0 0 0;
+}
+
+#showText2 {
+	font-size: 13px;
+	flex: 1 250px;
+	padding: 1px 0 10px 10px;
+	width: 250px;
+	border-radius: 0 0 0 0;
+}
+
+#totalPrice1 {
+	flex: 1 250px;
+	padding: 0 0 10px 10px;
+	width: 250px;
+	border-radius: 0 0 0 0;
+}
+
+#totalPrice2 {
+	flex: 1 250px;
+	font-weight: bold;
+	padding: 20px 0 10px 10px;
+	width: 250px;
+	border-radius: 0 0 0 0;
+}
