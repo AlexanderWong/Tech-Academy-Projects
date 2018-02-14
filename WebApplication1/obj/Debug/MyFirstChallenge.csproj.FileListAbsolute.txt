@@ -1,0 +1,9 @@
+C:\Users\Tech Academy Student\Documents\Visual Studio 2017\Projects\MyFirstChallenge\WebApplication1\WebApplication1\obj\Debug\MyFirstChallenge.csprojResolveAssemblyReference.cache
+C:\Users\Tech Academy Student\Documents\Visual Studio 2017\Projects\MyFirstChallenge\WebApplication1\WebApplication1\obj\Debug\MyFirstChallenge.csproj.CoreCompileInputs.cache
+C:\Users\Tech Academy Student\Documents\Visual Studio 2017\Projects\MyFirstChallenge\WebApplication1\WebApplication1\bin\WebApplication1.dll.config
+C:\Users\Tech Academy Student\Documents\Visual Studio 2017\Projects\MyFirstChallenge\WebApplication1\WebApplication1\bin\WebApplication1.dll
+C:\Users\Tech Academy Student\Documents\Visual Studio 2017\Projects\MyFirstChallenge\WebApplication1\WebApplication1\bin\WebApplication1.pdb
+C:\Users\Tech Academy Student\Documents\Visual Studio 2017\Projects\MyFirstChallenge\WebApplication1\WebApplication1\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Tech Academy Student\Documents\Visual Studio 2017\Projects\MyFirstChallenge\WebApplication1\WebApplication1\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Tech Academy Student\Documents\Visual Studio 2017\Projects\MyFirstChallenge\WebApplication1\WebApplication1\obj\Debug\WebApplication1.dll
+C:\Users\Tech Academy Student\Documents\Visual Studio 2017\Projects\MyFirstChallenge\WebApplication1\WebApplication1\obj\Debug\WebApplication1.pdb

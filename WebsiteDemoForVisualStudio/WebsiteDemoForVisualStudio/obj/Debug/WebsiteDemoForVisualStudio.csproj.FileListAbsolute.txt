@@ -1,0 +1,9 @@
+C:\Users\Tech Academy Student\Source\Repos\Tech-Academy-Projects\WebsiteDemoForVisualStudio\WebsiteDemoForVisualStudio\bin\WebsiteDemoForVisualStudio.dll.config
+C:\Users\Tech Academy Student\Source\Repos\Tech-Academy-Projects\WebsiteDemoForVisualStudio\WebsiteDemoForVisualStudio\bin\WebsiteDemoForVisualStudio.dll
+C:\Users\Tech Academy Student\Source\Repos\Tech-Academy-Projects\WebsiteDemoForVisualStudio\WebsiteDemoForVisualStudio\bin\WebsiteDemoForVisualStudio.pdb
+C:\Users\Tech Academy Student\Source\Repos\Tech-Academy-Projects\WebsiteDemoForVisualStudio\WebsiteDemoForVisualStudio\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Tech Academy Student\Source\Repos\Tech-Academy-Projects\WebsiteDemoForVisualStudio\WebsiteDemoForVisualStudio\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Tech Academy Student\Source\Repos\Tech-Academy-Projects\WebsiteDemoForVisualStudio\WebsiteDemoForVisualStudio\obj\Debug\WebsiteDemoForVisualStudio.csprojResolveAssemblyReference.cache
+C:\Users\Tech Academy Student\Source\Repos\Tech-Academy-Projects\WebsiteDemoForVisualStudio\WebsiteDemoForVisualStudio\obj\Debug\WebsiteDemoForVisualStudio.csproj.CoreCompileInputs.cache
+C:\Users\Tech Academy Student\Source\Repos\Tech-Academy-Projects\WebsiteDemoForVisualStudio\WebsiteDemoForVisualStudio\obj\Debug\WebsiteDemoForVisualStudio.dll
+C:\Users\Tech Academy Student\Source\Repos\Tech-Academy-Projects\WebsiteDemoForVisualStudio\WebsiteDemoForVisualStudio\obj\Debug\WebsiteDemoForVisualStudio.pdb
